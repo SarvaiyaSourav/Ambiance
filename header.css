@@ -1,0 +1,32 @@
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+}
+a:hover{
+    color: #9E8CC0;
+}
+/* .p1{
+    align-items: center;
+}
+
+@media (max-width: 800px){
+
+    .nav1,.nav2{
+        float: left;
+    }
+
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+}
+
+a:hover{
+    color: #9E8CC0;
+}
+
+.footer-content{
+    background-color: #000000;
+} */

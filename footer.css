@@ -1,0 +1,21 @@
+  .footer-section-legal{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .footer-section-legal p{
+    text-align: left;
+
+  }
+
+  .footer-section-contact ul{
+        text-align: center;
+        
+  }
+
+  a{
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+}
+a:hover{
+    color: #000000;
+}

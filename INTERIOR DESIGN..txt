@@ -1,0 +1,31 @@
+INTERIOR DESIGN.
+- Name: Ambiance
+-Pages:
+		.login
+		.register
+		.home page
+				-a single long pages with idea about web and
+				a view about website with some design to show
+				at the first site and some taglines and the basic site 				view.
+		.gallery
+				- all the items related interior design the content 					holds about 2 to 3 page about the item and a page 				contains atleast 7 items.(atleast 2 to 3 page) 
+		.projects
+				-overview about previous projects made by the 					company.(atleast 2 to 3 page)
+		.designers
+				-some information about the designers who are 					designing the interior.(atleast 2 to 3 page)
+		.design tips
+				-Giving major idea about the design of the house or 
+				office or commercial places.(atleast 2 to 3 page)
+		.support
+				-support customer care and support related to the 					website and consulting about the design which  to 				choose and how to do 
+		.about us
+				-about the team and the terms and condition and the 				policies.
+		.testing monios
+		.how it works
+		.contact us
+		.portifolio
+		
+		
+		
+		
+		

@@ -1,0 +1,11 @@
+a{
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+}
+a:hover{
+    color: #dc43f0;
+}
+
+.heading a:hover{
+    color: rgb(252, 143, 0);
+}

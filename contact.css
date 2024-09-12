@@ -1,0 +1,81 @@
+a{
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+}
+a:hover{
+    color: #9e5626;
+}
+.meetus a{
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 1s;
+}
+
+.meetus a:hover{
+    color: #9e5626;   
+}
+
+
+@media only screen and (max-width: 768px) {
+    .brand {
+      width: 100%;
+    }
+  
+    .centered-links {
+      display: none;
+    }
+  
+    .icons {
+      margin-left: auto;
+    }
+  
+    nav ul {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    nav li {
+      margin: 0;
+      padding: 10px;
+    }
+  
+    .background-section {
+      padding: 30px;
+    }
+  
+    .large {
+      font-size: x-large;
+      padding-right: 0;
+    }
+  
+    .meetus li {
+      padding-left: 0;
+      padding-top: 15px;
+    }
+  
+    .contact {
+      width: 100%;
+      margin: 5% 0;
+      max-width: none;
+    }
+  
+    table {
+      width: 100%;
+    }
+  
+    .inner-table {
+      width: 100%;
+    }
+  
+    .header h1 {
+      font-size: 24px;
+    }
+  
+    .map {
+      height: 300px; /* Adjust height as needed */
+    }
+  
+    .terms-link {
+      font-size: small;
+      padding-bottom: 5px;
+    }
+  }

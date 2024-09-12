@@ -1,0 +1,323 @@
+.cheader {
+    position: relative;
+    text-align: center;
+  }
+
+  .cimg img {
+    width: 100%;
+    height: 1000px;
+  }
+
+  .cheader h1 {
+    font-size: 70px;
+    position: absolute;
+    top: 30%;
+    left: 50.5%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: white;
+    text-shadow: 40px 40px 40px rgb(0, 0, 0);
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); */
+  }
+
+  .coverlay {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    width: 100%;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background: linear-gradient(to top, black, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+  }
+
+  .ctitle {
+    margin-top: 5%;
+  }
+
+  .ctitle h4 {
+    color: tomato;
+    font-size: 50px;
+  }
+
+  .ctitle p {
+    font-size: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+
+  .middhead {
+    margin-top: 5%;
+    margin-bottom: 2%;
+  }
+
+  .middhead h2 {
+    font-size: 50px;
+    color: tomato;
+  }
+
+  .feature {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .feat {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .fhead {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .fhead h4 {
+    color: black;
+    font-size: 28px;
+    font-weight: 500;
+  }
+
+  .fhead img {
+    padding-bottom: 20px;
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+  }
+
+  .finfo {
+    margin-top: auto;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  .finfo blockquote {
+    margin-bottom: 0;
+  }
+
+  .benefits {
+    margin-top: 10%;
+  }
+
+  .perks img {
+    width: 25px;
+  }
+
+  .perks p {
+    padding-left: 5px;
+    font-size: 18px;
+  }
+
+  .perks h1 {
+    font-size: 30px;
+  }
+
+  .ttp {
+    text-align: center;
+    /* padding-left: 5%; */
+  }
+
+  .Heading {
+    text-align: center;
+    font-size: 40px;
+    margin-top: -25px;
+    padding-bottom: 20px;
+    color: tomato;
+  }
+
+  .box {
+    margin: 5%;
+    border-right: 1px dashed #ffffff;
+    border-left: 1px dashed #ffffff;
+    margin-left: 18%;
+    margin-right: 18%;
+  }
+
+  .box1 {
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .container {
+    padding: 20px;
+  }
+
+  .dash {
+    color: tomato;
+  }
+
+  .ttp {
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+    margin: 5%;
+    padding: 2%;
+    text-align: center;
+  }
+
+  .box1 button {
+    width: 40%;
+    height: 50px;
+    background-color: tomato;
+    border-color: white;
+    font-weight: bold;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    transition: all 1s ease;
+    border-radius: 20px;
+    font-size: 18px;
+  }
+
+  .box1 button:hover {
+    background-color: transparent;
+    color: tomato;
+  }
+
+  /* form */
+
+  .class label {
+    color: #0c2844;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 25px;
+    margin-left: 25px;
+    font-family: "CustomFont1", sans-serif;
+    font-weight: 700;
+    transition: all 0.1s ease;
+    font-weight: 800;
+  }
+
+
+
+  input,
+  select {
+    width: 90%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    margin-left: 25px;
+    transition: all 0.5s ease;
+    border-radius: 10px;
+    background-color: #33393f3b;
+  }
+
+  input:hover {
+    border: 1px solid #0c2844;
+    border-radius: 15px;
+  }
+
+  input:focus {
+    border-radius: 10px;
+  }
+
+  textarea {
+    width: 90%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border: 1px solid black;
+  }
+
+  textarea {
+    margin-left: 50px;
+    width: 90%;
+    margin-bottom: 15px;
+    transition: all 0.5s ease;
+    background-color: #33393f3b;
+  }
+
+  textarea:hover {
+    border: 1px solid #0c2844;
+    border-radius: 15px;
+  }
+
+  textarea:focus {
+    border-radius: 10px;
+  }
+
+  .col-md-12 button {
+    background-color: #000000;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 35%;
+    transition: all 1.5s ease;
+    font-weight: 700;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .col-md-12 button:hover {
+    background-color: transparent;
+    color: black;
+    border: 1.5px solid black;
+    border-radius: 5px;
+  }
+
+  .careerapply h2 {
+    color: #0c2844;
+    font-size: 50px;
+    margin-bottom: 40px;
+    font-weight: 900;
+  }
+
+  .careerapply {
+    width: 100%;
+    height: 120vh;
+    overflow: hidden;
+    background-image: url("image/paper-style-dynamic-lines-backgr (1).jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .career {
+    background-color: rgba(255, 255, 255, 0.185);
+    padding: 38px;
+    border-radius: 10px;
+    box-shadow: rgba(255, 250, 250, 0.35) 5px 10px 30px;
+  }
+
+  option{
+    background-color: #33393f3b; 
+    color: #0c2844;
+  }
+
+  option:hover{
+    background-color: #0c2844;
+  }
+
+  select option:checked {
+    background-color: #33393f3b; 
+    color: black; 
+  }
+
+
+  @media only screen and (max-width: 800px) {
+    .contactf {
+      padding: 15px;
+    }
+
+    .class label {
+      font-size: 20px;
+    }
+
+    .class input,
+    textarea {
+      width: 100%;
+      margin-left: 0;
+    }
+
+    .class button {
+      width: 100%;
+      margin-left: 0;
+    }
+  }
